@@ -8,6 +8,27 @@
       "when": 1771782993576,
       "tag": "0000_rainy_annihilus",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772668800000,
+      "tag": "0001_github_contributions",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772755200000,
+      "tag": "0002_github_stats",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772841600000,
+      "tag": "0003_stats_prs_issues",
+      "breakpoints": true
     }
   ]
 }
