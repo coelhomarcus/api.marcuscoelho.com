@@ -5,7 +5,7 @@ import { githubRouter } from "./modules/github/github.routes";
 
 const app = express();
 
-app.use(cors({ origin: ["https://marcuscoelho.com"] }));
+app.use(cors({ origin: ["https://marcuscoelho.com", "https://www.marcuscoelho.com"] }));
 // app.use(cors({ origin: "*" }));
 app.use(express.json());
 
